@@ -1,7 +1,7 @@
 # Assignment Title: Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
 # Submitted by
-Name: Sabekun Nahar Tithe
+Name: Sabekun Nahar Tithe <br>
 ID: 2002072
 Level- 4, Semester- II
 Department of Computer Science and Engineering, HSTU.
