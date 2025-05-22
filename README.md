@@ -12,10 +12,10 @@ Lecturer <br>
 Department of Computer Science and Engineering, HSTU. <br>
 
 
-## Introduction
+# Introduction
 Bangladesh’s rapid digital transformation necessitates a robust legal framework to address cyber threats, data privacy, and digital governance. While the Digital Security Act (DSA) 2018 and the Information and Communication Technology (ICT) Act 2006 exist, they face criticism for being overly broad, prone to misuse, and inadequate against modern cyber risks. This proposal suggests reforms inspired by global best practices (EU’s GDPR, Singapore’s Cybersecurity Act, and India’s IT Act Amendments) to strengthen Bangladesh’s cyber legal infrastructure.
 
-## Cyber laws in Bangladesh
+# Cyber laws in Bangladesh
 ### 1. ICT Act, 2006
 - The first major cyber law in Bangladesh.
 - Contains provisions (Section 54–66) to address : Hacking, Cyber fraud, Identity theft, Publishing offensive or false content online.
@@ -33,7 +33,7 @@ Bangladesh’s rapid digital transformation necessitates a robust legal framewor
 - The recognition of internet access as a civil right.
 - Plans to repeal 9 controversial sections of the Cyber Security Act 2023 to ensure human rights and digital freedom.
 
-## Comparative analysis of the top 5 Countries
+# Comparative analysis of the top 5 Countries
 
 |Country	 | Law/Policy                          	                             |   Key Strengths                                  |
 |----------|-------------------------------------------------------------------|--------------------------------------------------|----
@@ -45,7 +45,7 @@ Bangladesh’s rapid digital transformation necessitates a robust legal framewor
 
 
 
-## Proposed Reforms & Global Benchmarks
+# Proposed Reforms & Global Benchmarks
 ### 1. Data Protection & Privacy
 Model: EU’s GDPR
 
@@ -77,7 +77,7 @@ Model: EU’s Digital Services Act (DSA)
 
 
 
-## Implementation Strategy
+# Implementation Strategy
 
 ### Phase 1: Legislative Overhaul (0–12 Months)
 - Drafting Committee: Include ICT Division, Bangladesh Bank, and civil society (e.g., Ain o Salish Kendra).
@@ -91,7 +91,7 @@ Model: EU’s Digital Services Act (DSA)
 - Annual Reviews: Parliament to assess law’s impact on FDI and press freedom.
 
 
-## Conclusion & Recommendations
+# Conclusion & Recommendations
 To achieve a secure yet open digital economy, Bangladesh must:
 - Replace the DSA with a rights-respecting cyber law.
 - Pass a GDPR-style Data Protection Act by 2025.
