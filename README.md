@@ -89,7 +89,7 @@ Model: EU’s Digital Services Act (DSA)
 
 
 # Conclusion & Recommendations
-To achieve a secure yet open digital economy, Bangladesh must:
+By adopting global best practices while tailoring them to local needs, Bangladesh can build a resilient, rights-respecting digital ecosystem. These reforms will enhance cybersecurity, boost investor confidence, and safeguard citizens’ digital rights—key to achieving "Smart Bangladesh 2041". To achieve a secure yet open digital economy, Bangladesh must:
 - Replace the DSA with a rights-respecting cyber law.
 - Pass a GDPR-style Data Protection Act by 2025.
 - Invest in Cyber Courts to clear case backlogs.
