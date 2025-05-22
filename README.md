@@ -36,12 +36,12 @@ Bangladesh’s rapid digital transformation necessitates a robust legal framewor
 # Comparative analysis of the top 5 countries
 
 |Country	 | Law/Policy                          	                             |   Key Strengths                                  |
------------------------------------------------------------------------------------------------------------------------------------
+|----------|-------------------------------------------------------------------|--------------------------------------------------|----
 |EU	       | GDPR	                                                             |   Strong data privacy & user consent             |
-|USA	     | Computer Fraud and Abuse Act (CFAA)	                             |  Focus on unauthorized access & federal oversight|
+|USA	     | Computer Fraud and Abuse Act (CFAA)	                             |   Focus on unauthorized access & federal oversight|
 |UK	       | Online Safety Bill (2023)	                                       |   Focus on platform responsibility               |
 |India	   | IT Act (Amended) & Digital Personal Data Protection Act (2023)	   |   More citizen-centric updates                   |
-|Singapore |	Cybersecurity Act                                                |  	Strong critical infrastructure protection     |
+|Singapore | Cybersecurity Act                                                 |   Strong critical infrastructure protection     |
 
 
 
