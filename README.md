@@ -1,39 +1,39 @@
-# Assignment Title: Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+### Assignment Title: Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
-# Submitted by
+### Submitted by
 Name: Sabekun Nahar Tithe <br>
 ID: 2002072 <br>
 Level- 4, Semester- II <br>
 Department of Computer Science and Engineering, HSTU. <br>
 
-# Submitted to
+### Submitted to
 Pankaj Bhowmik <br>
 Lecturer <br>
 Department of Computer Science and Engineering, HSTU. <br>
 
 
-# Introduction
+### Introduction
 Bangladesh’s rapid digital transformation necessitates a robust legal framework to address cyber threats, data privacy, and digital governance. While the Digital Security Act (DSA) 2018 and the Information and Communication Technology (ICT) Act 2006 exist, they face criticism for being overly broad, prone to misuse, and inadequate against modern cyber risks. This proposal suggests reforms inspired by global best practices (EU’s GDPR, Singapore’s Cybersecurity Act, and India’s IT Act Amendments) to strengthen Bangladesh’s cyber legal infrastructure.
 
-# Cyber laws in Bangladesh
-1. ICT Act, 2006
+### Cyber laws in Bangladesh
+#1. ICT Act, 2006
 - The first major cyber law in Bangladesh.
 - Contains provisions (Section 54–66) to address : Hacking, Cyber fraud, Identity theft, Publishing offensive or false content online.
 - Some sections (especially Section 57) were widely criticized for vague language and used to suppress freedom of expression.
 
-2. Digital Security Act (DSA), 2018
+#2. Digital Security Act (DSA), 2018
 - Replaced problematic parts of the ICT Act.
 - Aims to enhance cybersecurity and prevent digital crimes.
 
-3. Cyber Security Act, 2023
+#3. Cyber Security Act, 2023
 - Replace the much-criticized Digital Security Act, 2018.
 - Aim of the new law is to ensure cyber safety, prevent digital crimes, and regulate online activities.
 
-4. Cyber Protection Ordinance- 2025
+#4. Cyber Protection Ordinance- 2025
 - The recognition of internet access as a civil right.
 - Plans to repeal 9 controversial sections of the Cyber Security Act 2023 to ensure human rights and digital freedom.
 
-# Comparative analysis of the top 5 countries
+### Comparative analysis of the top 5 countries
 
 |Country	 | Law/Policy                          	                             |   Key Strengths                                  |
 |----------|-------------------------------------------------------------------|--------------------------------------------------|----
@@ -45,19 +45,17 @@ Bangladesh’s rapid digital transformation necessitates a robust legal framewor
 
 
 
-# Proposed Reforms & Global Benchmarks
-1. Data Protection & Privacy
+### Proposed Reforms & Global Benchmarks
+#1. Data Protection & Privacy
 Model: EU’s GDPR
 
-Key Provisions for Bangladesh:
+- Key Provisions for Bangladesh:
 
-Right to Erasure: Citizens may request data deletion (e.g., expired mobile banking records).
+-- Right to Erasure: Citizens may request data deletion (e.g., expired mobile banking records).
+-- Data Localization: Critical infrastructure data (e.g., banking, health) must be stored locally.
+-- Penalties: Fines up to 4% of annual turnover for violations (like GDPR’s enforcement against Meta).
 
-Data Localization: Critical infrastructure data (e.g., banking, health) must be stored locally.
-
-Penalties: Fines up to 4% of annual turnover for violations (like GDPR’s enforcement against Meta).
-
-2. Precision in Cybercrime Definitions
+#2. Precision in Cybercrime Definitions
 Model: Singapore’s Cybersecurity Act
 
 Key Adjustments:
@@ -66,7 +64,7 @@ Model: Singapore’s Cybersecurity Act
 
 Whistleblower Shield: Legal immunity for ethical hackers reporting vulnerabilities (as in Singapore’s CSA Section 8).
 
-3. Institutional Capacity Building
+#3. Institutional Capacity Building
 Model: India’s Cyber Appellate Tribunal
 
 Actions:
@@ -75,7 +73,7 @@ Model: India’s Cyber Appellate Tribunal
 
 Forensic Labs: Equip police with Cellebrite-like tools for digital evidence.
 
-4. Platform Accountability & Free Speech
+#4. Platform Accountability & Free Speech
 Model: EU’s Digital Services Act (DSA)
 
 Balanced Approach:
@@ -86,7 +84,7 @@ Model: EU’s Digital Services Act (DSA)
 
 
 
-# Implementation Strategy
+### Implementation Strategy
 
 Phase 1: Legislative Overhaul (0–12 Months)
 Drafting Committee: Include ICT Division, Bangladesh Bank, and civil society (e.g., Ain o Salish Kendra).
@@ -102,7 +100,7 @@ Phase 3: Monitoring (24+ Months)
 Annual Reviews: Parliament to assess law’s impact on FDI and press freedom.
 
 
-# Conclusion & Recommendations
+### Conclusion & Recommendations
 To achieve a secure yet open digital economy, Bangladesh must:
 
 Replace the DSA with a rights-respecting cyber law.
