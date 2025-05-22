@@ -17,21 +17,21 @@ Bangladesh’s rapid digital transformation necessitates a robust legal framewor
 
 # Cyber laws in Bangladesh
 1. ICT Act, 2006
-The first major cyber law in Bangladesh.
-Contains provisions (Section 54–66) to address : Hacking, Cyber fraud, Identity theft, Publishing offensive or false content online.
-Some sections (especially Section 57) were widely criticized for vague language and used to suppress freedom of expression.
+- The first major cyber law in Bangladesh.
+- Contains provisions (Section 54–66) to address : Hacking, Cyber fraud, Identity theft, Publishing offensive or false content online.
+- Some sections (especially Section 57) were widely criticized for vague language and used to suppress freedom of expression.
 
 2. Digital Security Act (DSA), 2018
-Replaced problematic parts of the ICT Act.
-Aims to enhance cybersecurity and prevent digital crimes.
+- Replaced problematic parts of the ICT Act.
+- Aims to enhance cybersecurity and prevent digital crimes.
 
 3. Cyber Security Act, 2023
-Replace the much-criticized Digital Security Act, 2018.
-Aim of the new law is to ensure cyber safety, prevent digital crimes, and regulate online activities.
+- Replace the much-criticized Digital Security Act, 2018.
+- Aim of the new law is to ensure cyber safety, prevent digital crimes, and regulate online activities.
 
 4. Cyber Protection Ordinance- 2025
-The recognition of internet access as a civil right.
-Plans to repeal 9 controversial sections of the Cyber Security Act 2023 to ensure human rights and digital freedom.
+- The recognition of internet access as a civil right.
+- Plans to repeal 9 controversial sections of the Cyber Security Act 2023 to ensure human rights and digital freedom.
 
 # Comparative analysis of the top 5 countries
 
