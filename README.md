@@ -33,7 +33,7 @@ Bangladesh’s rapid digital transformation necessitates a robust legal framewor
 - The recognition of internet access as a civil right.
 - Plans to repeal 9 controversial sections of the Cyber Security Act 2023 to ensure human rights and digital freedom.
 
-# Comparative analysis of the top 5 Countries
+# Comparative Analysis of the top 5 Countries
 | Country        | Law/Policy                           | Key Strengths                                                |
 |----------------|------------------------------------|--------------------------------------------------------------|
 | **EU**         | GDPR                                | Strong data privacy & user consent                           | 
