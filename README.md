@@ -34,17 +34,14 @@ Bangladesh’s rapid digital transformation necessitates a robust legal framewor
 - Plans to repeal 9 controversial sections of the Cyber Security Act 2023 to ensure human rights and digital freedom.
 
 # Comparative analysis of the top 5 Countries
-
-|Country	 | Law/Policy                          	                             |   Key Strengths                                  |
-|----------|-------------------------------------------------------------------|--------------------------------------------------|----
-|EU	       | GDPR	                                                             |   Strong data privacy & user consent             |
-|USA	     | Computer Fraud and Abuse Act (CFAA)	                             |   Focus on unauthorized access & federal oversight|
-|UK	       | Online Safety Bill (2023)	                                       |   Focus on platform responsibility               |
-|India	   | IT Act (Amended) & Digital Personal Data Protection Act (2023)	   |   More citizen-centric updates                   |
-|Singapore | Cybersecurity Act                                                 |   Strong critical infrastructure protection     |
-
-
-
+| Country        | Law/Policy                           | Key Strengths                                                |
+|----------------|------------------------------------|--------------------------------------------------------------|
+| **EU**         | GDPR                                | Strong data privacy & user consent                           | 
+| **USA**        | Computer Fraud and Abuse Act (CFAA) | Focus on unauthorized access & federal oversight             | 
+| **UK**         | Online Safety Bill (2023)           | Focus on platform responsibility                             |
+| **India**      | IT Act (Amended) & Digital Personal Data Protection Act (2023)  | More citizen-centric updates     | 
+| **Singapore**  | Cybersecurity Act                  | Strong critical infrastructure protection                      |       
+                          
 # Proposed Reforms & Global Benchmarks
 ### 1. Data Protection & Privacy
 Model: EU’s GDPR
